@@ -10,14 +10,14 @@
 
 .counter h1 {
   text-transform: uppercase;
-  color: #575757;
+  color: #8b7ffe8b7ffe;
   margin: 0;
   font-size: 1rem;
 }
 
 .value {
   font-size: 2rem;
-  color: #3c0080;
+  color: #8b7ffe;
   margin: 2rem 0;
   font-weight: bold;
 }
